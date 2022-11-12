@@ -1,4 +1,4 @@
-[Twitter @MSilb7](https://twitter.com/MSilb7)
+Twitter [@MSilb7](https://twitter.com/MSilb7)
 
 Data @ OP Labs - Building [Optimism](https://www.optimism.io/)
 
