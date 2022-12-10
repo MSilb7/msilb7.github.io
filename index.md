@@ -17,7 +17,7 @@ Data @ OP Labs - Building [Optimism](https://www.optimism.io/)
 - **10/13/22: [Dune Arcana - A Primer on L2](https://youtu.be/sciPaCZGzcE)**
   [![](https://img.youtube.com/vi/sciPaCZGzcE/maxresdefault.jpg)](https://youtu.be/sciPaCZGzcE)
   
-- **3/17/22 [OurNetwork Learn Episode 19: Using Parameters to Build a Better Dashboard UX](https://www.youtube.com/watch?v=OEyzrRkvY2w&list=PL_7kfUeJgSzz5Fltb2nivE_8xuAe2XTJl&index=19)
+- **3/17/22 [OurNetwork Learn Episode 19: Using Parameters to Build a Better Dashboard UX](https://www.youtube.com/watch?v=OEyzrRkvY2w&list=PL_7kfUeJgSzz5Fltb2nivE_8xuAe2XTJl&index=19)**
   [![](https://img.youtube.com/vi/OEyzrRkvY2w/maxresdefault.jpg)](https://youtu.be/OEyzrRkvY2w)
 
 <!-- ## Notable Chart Links
