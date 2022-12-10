@@ -13,6 +13,7 @@ Data @ OP Labs - Building [Optimism](https://www.optimism.io/)
 
 - **3/21/22: [Dune Weekly Wizard - Episode 8](https://youtu.be/F5wu3c_EjzU)**
   [![Dune Weekly Wizard - Episode 8](https://img.youtube.com/vi/F5wu3c_EjzU/maxresdefault.jpg)](https://youtu.be/F5wu3c_EjzU)
+  
 - **10/13/22: [Dune Arcana - A Primer on L2](https://youtu.be/sciPaCZGzcE)**
   [![Dune Arcana - A Primer on L2](https://img.youtube.com/vi/sciPaCZGzcE/maxresdefault.jpg)](https://youtu.be/sciPaCZGzcE)
 
