@@ -2,7 +2,7 @@
 
 Twitter: [@MSilb7](https://twitter.com/MSilb7)
 
-Data @ OP Labs - Building [Optimism](https://www.optimism.io/)
+**Data @ OP Labs** - Building [Optimism](https://www.optimism.io/) & the Optimism Collective
 
 ## Work Portfolio
 - [GitHub Profile](https://github.com/MSilb7)
