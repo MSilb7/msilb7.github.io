@@ -20,6 +20,8 @@ Twitter: [@MSilb7](https://twitter.com/MSilb7)
 - **3/17/22 [OurNetwork Learn Episode 19: Using Parameters to Build a Better Dashboard UX](https://www.youtube.com/watch?v=OEyzrRkvY2w&list=PL_7kfUeJgSzz5Fltb2nivE_8xuAe2XTJl&index=19)**
   [![](https://img.youtube.com/vi/OEyzrRkvY2w/maxresdefault.jpg)](https://youtu.be/OEyzrRkvY2w)
 
+## Writing
+- **[michaelsilberling.substack.com](https://michaelsilberling.substack.com/)**: Occasionally sharing things that may or may not be intelligent.
 <!-- ## Notable Chart Links
 - TVL Flows (per Defillama API) - [1d](https://msilb7.github.io/msilb7-crypto-queries/L2%20TVL/img_outputs/net_app_flows_1d.html), [7d](https://msilb7.github.io/msilb7-crypto-queries/L2%20TVL/img_outputs/net_app_flows_7d.html), [30d](https://msilb7.github.io/msilb7-crypto-queries/L2%20TVL/img_outputs/net_app_flows_30d.html), [90d](https://msilb7.github.io/msilb7-crypto-queries/L2%20TVL/img_outputs/net_app_flows.html)
 - [OP Summer Incentive Program TVL Flows](https://msilb7.github.io/msilb7-crypto-queries/L2%20TVL/img_outputs/cumul_ndf.html) (per Defillama API)
