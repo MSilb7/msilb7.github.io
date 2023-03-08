@@ -1,9 +1,7 @@
 ### Michael Silberling
-![image](https://user-images.githubusercontent.com/4006780/223617672-e0df32e4-d7bc-49ab-b437-d08acfe8c48e.png)
+![image](https://user-images.githubusercontent.com/4006780/223618156-1dd1f518-2770-48a8-a2d7-6a75d0e1261a.png)
 
-
-**Data @ OP Labs** - Building [Optimism](https://www.optimism.io/) & the Optimism Collective
-Numba Nerd. Sports guy. Florida man. UF Alum
+**Data @ OP Labs** - Working on [Optimism](https://www.optimism.io/) & contributing to the Optimism Collective 🔴✨
 
 Twitter: [@MSilb7](https://twitter.com/MSilb7) | Farcaster: [@MSilb7](https://warpcast.com/msilb7) |LinkedIn: [not @Msilb7](https://www.linkedin.com/in/michaelsilberling/)
 
