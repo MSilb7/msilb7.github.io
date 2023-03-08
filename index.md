@@ -1,5 +1,5 @@
 ## Michael Silberling
-![image](https://user-images.githubusercontent.com/4006780/223618821-2463d2ea-41f9-41d7-914c-3bded756e733.png)
+<!-- ![image](https://user-images.githubusercontent.com/4006780/223618821-2463d2ea-41f9-41d7-914c-3bded756e733.png) -->
 
 ### Data @ OP Labs
 Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io/) & contributing to the Optimism Collective 🔴✨
@@ -9,10 +9,11 @@ Twitter: [@MSilb7](https://twitter.com/MSilb7) | Farcaster: [@MSilb7](https://wa
 
 _Numba Nerd / Onchain data analyst. Florida Man. UF Alum. Occasional Sports guy._
 
-## Work Portfolio
-- [GitHub Profile](https://github.com/MSilb7)
+## Stuff I Work On
+- [Personal Github](https://github.com/MSilb7)
 - Dune - [Personal Account](https://dune.com/msilb7)
 - Dune - [Optimism Team Account](https://dune.com/optimismfnd) & [OP Labs Team Account](https://dune.com/oplabspbc)
+- [Optimism Analytics Github](https://github.com/ethereum-optimism/op-analytics)
 
 ## Appearances
 
