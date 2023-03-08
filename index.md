@@ -7,7 +7,7 @@ _Numba Nerd / Onchain data analyst. Florida Man. UF Alum. Sports guy._
 Twitter: [@MSilb7](https://twitter.com/MSilb7) | Farcaster: [@MSilb7](https://warpcast.com/msilb7) | Linkedin: [not @MSilb7](https://www.linkedin.com/in/michaelsilberling/)
 
 
-## Stuff I Work On
+## Places I Share Work
 - [Personal Github](https://github.com/MSilb7)
 - [Dune - Personal Account](https://dune.com/msilb7)
 - [Dune - Optimism Team Account](https://dune.com/optimismfnd) & [OP Labs Team Account](https://dune.com/oplabspbc)
