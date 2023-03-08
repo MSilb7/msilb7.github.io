@@ -2,13 +2,11 @@
 <!-- ![image](https://user-images.githubusercontent.com/4006780/223618821-2463d2ea-41f9-41d7-914c-3bded756e733.png) -->
 _Numba Nerd / Onchain data analyst. Florida Man. UF Alum. Sports guy._
 
-**Data @ [OP Labs PBC](https://www.oplabs.co/)**
-
-Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io/) & contributing to the Optimism Collective 🔴✨
+**Data @ [OP Labs PBC](https://www.oplabs.co/):** Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io/) & contributing to the Optimism Collective 🔴✨
 
 Twitter: [@MSilb7](https://twitter.com/MSilb7) | Farcaster: [@MSilb7](https://warpcast.com/msilb7) | Linkedin: [not @Msilb7](https://www.linkedin.com/in/michaelsilberling/)
 
-
+---
 
 ## Stuff I Work On
 - [Personal Github](https://github.com/MSilb7)
