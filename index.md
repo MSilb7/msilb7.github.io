@@ -2,7 +2,9 @@
 ![image](https://user-images.githubusercontent.com/4006780/223618156-1dd1f518-2770-48a8-a2d7-6a75d0e1261a.png)
 
 **Data @ OP Labs** - Working on [Optimism](https://www.optimism.io/) & contributing to the Optimism Collective 🔴✨
+
 Numba Nerd / Onchain data analyst. Florida Man. UF Alum. Occasional Sports guy.
+
 
 Twitter: [@MSilb7](https://twitter.com/MSilb7) | Farcaster: [@MSilb7](https://warpcast.com/msilb7) | LinkedIn: [not @Msilb7](https://www.linkedin.com/in/michaelsilberling/)
 
