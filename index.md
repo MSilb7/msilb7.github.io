@@ -9,8 +9,8 @@ Twitter: [@MSilb7](https://twitter.com/MSilb7) | Farcaster: [@MSilb7](https://wa
 
 ## Stuff I Work On
 - [Personal Github](https://github.com/MSilb7)
-- Dune - [Personal Account](https://dune.com/msilb7)
-- Dune - [Optimism Team Account](https://dune.com/optimismfnd) & [OP Labs Team Account](https://dune.com/oplabspbc)
+- [Dune - Personal Account](https://dune.com/msilb7)
+- [Dune - Optimism Team Account](https://dune.com/optimismfnd) & [OP Labs Team Account](https://dune.com/oplabspbc)
 - [Optimism Analytics Github](https://github.com/ethereum-optimism/op-analytics)
 
 ## Appearances
