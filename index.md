@@ -23,9 +23,6 @@ Twitter: [@MSilb7](https://twitter.com/MSilb7) | Farcaster: [@MSilb7](https://wa
   
 - **10/13/22: [Dune Arcana - A Primer on L2](https://youtu.be/sciPaCZGzcE)**
   [![](https://img.youtube.com/vi/sciPaCZGzcE/maxresdefault.jpg)](https://youtu.be/sciPaCZGzcE)
-
-- **3/31/23 [Defillama Spaces: Then Future of Opensource Crypto Data](https://twitter.com/0xKofi/status/1641402937556475906?s=20)**
-  [![](https://github.com/MSilb7/msilb7.github.io/assets/4006780/0cb0884b-c36d-448b-b226-60920928f2f2)](https://twitter.com/0xKofi/status/1641402937556475906?s=20)
   
 - **3/17/22 [OurNetwork Learn Episode 19: Using Parameters to Build a Better Dashboard UX](https://www.youtube.com/watch?v=OEyzrRkvY2w&list=PL_7kfUeJgSzz5Fltb2nivE_8xuAe2XTJl&index=19)**
   [![](https://img.youtube.com/vi/OEyzrRkvY2w/maxresdefault.jpg)](https://youtu.be/OEyzrRkvY2w)
