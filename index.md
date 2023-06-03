@@ -11,10 +11,9 @@ Twitter: [@MSilb7](https://twitter.com/MSilb7) | Farcaster: [@MSilb7](https://wa
 
 
 ## Places I Share Work
-- [Personal Github](https://github.com/MSilb7)
-- [Dune - Personal Account](https://dune.com/msilb7)
-- [Dune - Optimism Team Account](https://dune.com/optimismfnd) & [OP Labs Team Account](https://dune.com/oplabspbc)
-- [Optimism Analytics Github](https://github.com/ethereum-optimism/op-analytics)
+- [Personal Github (MSilb7)](https://github.com/MSilb7)
+- [Dune - OP Labs Team Account (oplabspbc)](https://dune.com/oplabspbc) & [Optimism Team Account (optimismfnd)](https://dune.com/optimismfnd) & [Personal Account (MSilb7)](https://dune.com/msilb7)
+- [Optimism Analytics Github (op-analytics)](https://github.com/ethereum-optimism/op-analytics)
 
 ## Appearances
 
@@ -28,11 +27,5 @@ Twitter: [@MSilb7](https://twitter.com/MSilb7) | Farcaster: [@MSilb7](https://wa
   [![](https://img.youtube.com/vi/OEyzrRkvY2w/maxresdefault.jpg)](https://youtu.be/OEyzrRkvY2w)
 
 
-
-## Writing
+## Other Things
 - **[michaelsilberling.substack.com](https://michaelsilberling.substack.com/)**: Occasionally sharing things that may or may not be intelligent.
-
-<!-- ## Notable Chart Links
-- TVL Flows (per Defillama API) - [1d](https://msilb7.github.io/msilb7-crypto-queries/L2%20TVL/img_outputs/net_app_flows_1d.html), [7d](https://msilb7.github.io/msilb7-crypto-queries/L2%20TVL/img_outputs/net_app_flows_7d.html), [30d](https://msilb7.github.io/msilb7-crypto-queries/L2%20TVL/img_outputs/net_app_flows_30d.html), [90d](https://msilb7.github.io/msilb7-crypto-queries/L2%20TVL/img_outputs/net_app_flows.html)
-- [OP Summer Incentive Program TVL Flows](https://msilb7.github.io/msilb7-crypto-queries/L2%20TVL/img_outputs/cumul_ndf.html) (per Defillama API)
-- Optimism App Fees (per Cryptofees API) - [Daily](https://msilb7.github.io/msilb7-crypto-queries/L2_Fees/img_outputs/app_fees_on_op.html), [7-Day Moving Average](https://msilb7.github.io/msilb7-crypto-queries/L2_Fees/img_outputs/app_fees_on_op_7dma.html) -->
