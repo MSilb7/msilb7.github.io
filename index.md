@@ -8,6 +8,7 @@
 **Data Analyst @ [OP Labs PBC](https://www.oplabs.co/)**<br>
 Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io/) & contributing to the [Optimism Collective](https://www.optimism.io/vision) 🔴✨
 
+---
 ### Places I Share Work
 - Github
   - [Optimism Analytics Repo (op-analytics)](https://github.com/ethereum-optimism/op-analytics)
@@ -17,6 +18,7 @@ Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io
   - [Optimism Team (optimismfnd)](https://dune.com/optimismfnd)
   - [Personal (MSilb7)](https://dune.com/msilb7)
 
+---
 ### Appearances
 
 - **3/21/22: [Dune Weekly Wizard - Episode 8](https://youtu.be/F5wu3c_EjzU)**
