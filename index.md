@@ -9,7 +9,7 @@ Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io
 *Numba Nerd / Onchain data analyst. Florida Man. UF Alum. Sports guy.*
 
 
-## Places I Share Work
+### Places I Share Work
 - Github
   - [Optimism Analytics Repo (op-analytics)](https://github.com/ethereum-optimism/op-analytics)
   - [Personal (MSilb7)](https://github.com/MSilb7)
@@ -18,7 +18,7 @@ Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io
   - [Optimism Team (optimismfnd)](https://dune.com/optimismfnd)
   - [Personal (MSilb7)](https://dune.com/msilb7)
 
-## Appearances
+### Appearances
 
 - **3/21/22: [Dune Weekly Wizard - Episode 8](https://youtu.be/F5wu3c_EjzU)**
   [![](https://img.youtube.com/vi/F5wu3c_EjzU/maxresdefault.jpg)](https://youtu.be/F5wu3c_EjzU)
@@ -30,5 +30,5 @@ Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io
   [![](https://img.youtube.com/vi/OEyzrRkvY2w/maxresdefault.jpg)](https://youtu.be/OEyzrRkvY2w)
 
 
-## Other Things
+### Other Things
 - **[michaelsilberling.substack.com](https://michaelsilberling.substack.com/)**: Occasionally sharing things that may or may not be intelligent.
