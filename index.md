@@ -4,6 +4,7 @@
 **Michael Silberling**<br/>
 
 Twitter: [@MSilb7](https://twitter.com/MSilb7) | Threads: [@msilb7](https://www.threads.net/@msilb7) | Farcaster: [@MSilb7](https://warpcast.com/msilb7) | Linkedin: [not @MSilb7](https://www.linkedin.com/in/michaelsilberling/) | Gallery: [msilb7](https://gallery.so/msilb7)
+---
 <br/>_Numba Nerd / Onchain data analyst. Florida Man. UF Alum. Sports guy._
 **Data Analyst @ [OP Labs PBC](https://www.oplabs.co/)**<br/>
 Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io/) & contributing to the Optimism Collective 🔴✨
