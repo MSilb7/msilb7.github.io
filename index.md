@@ -6,7 +6,7 @@
 **Data Analyst @ [OP Labs PBC](https://www.oplabs.co/)**<br/>
 Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io/) & contributing to the Optimism Collective 🔴✨
 
-*Numba Nerd / Onchain data analyst. Florida Man. UF Alum. Sports guy. Previous cubicle resident @ Amazon & Lockheed*
+*Numba Nerd / Onchain data analyst. Florida Man. UF Alum. Sports guy.*
 
 
 ## Places I Share Work
