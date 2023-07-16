@@ -15,9 +15,13 @@ Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io
 
 
 ## Places I Share Work
-- [Personal Github (MSilb7)](https://github.com/MSilb7)
-- [Dune - OP Labs Team Account (oplabspbc)](https://dune.com/oplabspbc) & [Optimism Team Account (optimismfnd)](https://dune.com/optimismfnd) & [Personal Account (MSilb7)](https://dune.com/msilb7)
-- [Optimism Analytics Github (op-analytics)](https://github.com/ethereum-optimism/op-analytics)
+- Github
+  - [Optimism Analytics Github (op-analytics)](https://github.com/ethereum-optimism/op-analytics)
+  - [Personal (MSilb7)](https://github.com/MSilb7)
+- Dune
+  - [OP Labs Team (oplabspbc)](https://dune.com/oplabspbc)
+  - [Optimism Team (optimismfnd)](https://dune.com/optimismfnd)
+  - [Personal (MSilb7)](https://dune.com/msilb7)
 
 ## Appearances
 
