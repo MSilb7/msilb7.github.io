@@ -1,15 +1,14 @@
 <!-- ## Michael Silberling -->
 <!-- ![image](https://user-images.githubusercontent.com/4006780/223618821-2463d2ea-41f9-41d7-914c-3bded756e733.png) -->
 
-Twitter: [@MSilb7](https://twitter.com/MSilb7) | Threads: [@msilb7](https://www.threads.net/@msilb7) | Farcaster: [@MSilb7](https://warpcast.com/msilb7) | Linkedin: [not @MSilb7](https://www.linkedin.com/in/michaelsilberling/) | Gallery: [msilb7](https://gallery.so/msilb7)
-
-_Numba Nerd / Onchain data analyst. Florida Man. UF Alum. Sports guy._
+**Twitter**: [@MSilb7](https://twitter.com/MSilb7) | **Farcaster**: [@MSilb7](https://warpcast.com/msilb7) | **Threads**: [@msilb7](https://www.threads.net/@msilb7) | **Linkedin**: [not @MSilb7](https://www.linkedin.com/in/michaelsilberling/) | **Gallery**: [msilb7](https://gallery.so/msilb7)
 
 ---
 
 **Data Analyst @ [OP Labs PBC](https://www.oplabs.co/)**<br/>
 Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io/) & contributing to the Optimism Collective 🔴✨
-*Previous cubicle resident @ Amazon & Lockheed*
+
+*Numba Nerd / Onchain data analyst. Florida Man. UF Alum. Sports guy. Previous cubicle resident @ Amazon & Lockheed*
 
 
 ## Places I Share Work
