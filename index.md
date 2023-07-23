@@ -3,15 +3,17 @@
 
 **Twitter**: [@MSilb7](https://twitter.com/MSilb7) | **Farcaster**: [@MSilb7](https://warpcast.com/msilb7) | **Linkedin**: [not @MSilb7](https://www.linkedin.com/in/michaelsilberling/)
 
-**Data Analyst @ [OP Labs PBC](https://www.oplabs.co/)**<br>
+**Data @ [OP Labs PBC](https://www.oplabs.co/)**<br>
 Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io/) & contributing to the [Optimism Collective](https://www.optimism.io/vision) 🔴✨
+
+*See: [oplabs.co](https://www.oplabs.co/) | [optimism.io](https://www.optimism.io/)*
 
 ---
 ### Places I Share Work
-- Github
+- **Github**
   - [Optimism Analytics Repo (op-analytics)](https://github.com/ethereum-optimism/op-analytics)
   - [Personal (MSilb7)](https://github.com/MSilb7)
-- Dune
+- **Dune**
   - [OP Labs Team (oplabspbc)](https://dune.com/oplabspbc)
   - [Optimism Team (optimismfnd)](https://dune.com/optimismfnd)
   - [Personal (MSilb7)](https://dune.com/msilb7)
