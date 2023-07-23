@@ -4,7 +4,7 @@
 **Twitter**: [@MSilb7](https://twitter.com/MSilb7) | **Farcaster**: [@MSilb7](https://warpcast.com/msilb7) | **Linkedin**: [not @MSilb7](https://www.linkedin.com/in/michaelsilberling/)
 
 **Data @ [OP Labs PBC](https://www.oplabs.co/)**<br>
-Scaling Ethereum's technology and values with [Optimism](https://www.optimism.io/) & contributing to the [Optimism Collective](https://www.optimism.io/vision) 🔴✨
+Scaling Ethereum, Building [Optimism](https://www.optimism.io/) & contributing to the [Optimism Collective](https://www.optimism.io/vision) 🔴✨
 
 *See: [oplabs.co](https://www.oplabs.co/) & [optimism.io](https://www.optimism.io/)*
 
