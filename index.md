@@ -11,13 +11,15 @@ Scaling Ethereum, Building [Optimism](https://www.optimism.io/) & contributing t
 
 ---
 ### Places I Share Work
-- **Github**
-  - [Optimism Analytics Repo (op-analytics)](https://github.com/ethereum-optimism/op-analytics)
-  - [Personal (MSilb7)](https://github.com/MSilb7)
+
 - **Dune**
   - [OP Labs Team (oplabspbc)](https://dune.com/oplabspbc)
   - [Optimism Team (optimismfnd)](https://dune.com/optimismfnd)
   - [Personal (MSilb7)](https://dune.com/msilb7)
+
+- **Github**
+  - [Optimism Analytics Repo (op-analytics)](https://github.com/ethereum-optimism/op-analytics)
+  - [Personal (MSilb7)](https://github.com/MSilb7)
 
 ---
 ### Appearances
