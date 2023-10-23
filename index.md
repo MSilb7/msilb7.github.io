@@ -6,7 +6,7 @@
 **Data @ [OP Labs PBC](https://www.oplabs.co/)**<br>
 Scaling Ethereum, Building [Optimism](https://www.optimism.io/) & contributing to the [Optimism Collective](https://www.optimism.io/vision) 🔴✨
 
-*See: [oplabs.co](https://www.oplabs.co/) & [optimism.io](https://www.optimism.io/) | [Careers at OP Labs](https://grnh.se/0078180d4us)*
+*See: [oplabs.co](https://www.oplabs.co/) & [optimism.io](https://www.optimism.io/) || [Careers at OP Labs](https://grnh.se/0078180d4us)*
 
 
 ---
