@@ -32,3 +32,7 @@ Scaling Ethereum, Building [Optimism](https://www.optimism.io/) & contributing t
   
 - **3/17/22 [OurNetwork Learn Episode 19: Using Parameters to Build a Better Dashboard UX](https://www.youtube.com/watch?v=OEyzrRkvY2w&list=PL_7kfUeJgSzz5Fltb2nivE_8xuAe2XTJl&index=19)**
   [![](https://img.youtube.com/vi/OEyzrRkvY2w/maxresdefault.jpg)](https://youtu.be/OEyzrRkvY2w)
+
+---
+
+*Clear Eyes. Full Hearts. Can't Lose.*
