@@ -24,6 +24,9 @@ Scaling Ethereum, Building [Optimism](https://www.optimism.io/) & contributing t
 ---
 ### Appearances
 
+- **3/19/24: [Indexed Podcast - Episode 4 - EIP4844 Blobs (w/ Michael Silberling)](https://www.youtube.com/watch?v=8IZGXcvKEVg)**
+  [![](https://i.ytimg.com/vi/8IZGXcvKEVg/hqdefault.jpg)]([https://youtu.be/F5wu3c_EjzU](https://www.youtube.com/watch?v=8IZGXcvKEVg))
+  
 - **3/21/22: [Dune Weekly Wizard - Episode 8](https://youtu.be/F5wu3c_EjzU)**
   [![](https://img.youtube.com/vi/F5wu3c_EjzU/maxresdefault.jpg)](https://youtu.be/F5wu3c_EjzU)
   
