@@ -30,7 +30,7 @@ Scaling Ethereum, Building [Optimism](https://www.optimism.io/) & contributing t
 ### Appearances
 
 - **11/14/24: [Devcon 7 - Building ecosystem health metrics with open data sources](https://www.youtube.com/watch?v=M9EQ-adPTrI)**
-[![](https://i.ytimg.com/vi/M9EQ-adPTrI/hqdefault.jpg)]([https://youtu.be/M9EQ-adPTrI](https://www.youtube.com/watch?v=M9EQ-adPTrI))
+  [![](https://i.ytimg.com/vi/M9EQ-adPTrI/hqdefault.jpg)]([https://youtu.be/M9EQ-adPTrI](https://www.youtube.com/watch?v=M9EQ-adPTrI))
 
 - **3/19/24: [Indexed Podcast - Episode 4 - EIP4844 Blobs (w/ Michael Silberling)](https://www.youtube.com/watch?v=8IZGXcvKEVg)**
   [![](https://i.ytimg.com/vi/8IZGXcvKEVg/hqdefault.jpg)]([https://youtu.be/8IZGXcvKEVg](https://www.youtube.com/watch?v=8IZGXcvKEVg))
