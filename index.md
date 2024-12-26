@@ -1,7 +1,7 @@
 <!-- ## Michael Silberling -->
 <!-- ![image](https://user-images.githubusercontent.com/4006780/223618821-2463d2ea-41f9-41d7-914c-3bded756e733.png) -->
 
-**Twitter**: [@MSilb7](https://twitter.com/MSilb7) | **Farcaster**: [@MSilb7](https://warpcast.com/msilb7) | **Linkedin**: [not @MSilb7](https://www.linkedin.com/in/michaelsilberling/)
+**Twitter**: [@MSilb7](https://twitter.com/MSilb7) | **Farcaster**: [@MSilb7](https://warpcast.com/msilb7) | **Bluesky**: [@msilb7.bsky.social](https://bsky.app/profile/msilb7.bsky.social)
 
 **Data @ [OP Labs PBC](https://www.oplabs.co/)**<br>
 Scaling Ethereum, Building [Optimism](https://www.optimism.io/) & contributing to the [Optimism Collective](https://www.optimism.io/vision) 🔴✨
@@ -43,7 +43,3 @@ Scaling Ethereum, Building [Optimism](https://www.optimism.io/) & contributing t
   
 - **3/17/22 [OurNetwork Learn Episode 19: Using Parameters to Build a Better Dashboard UX](https://www.youtube.com/watch?v=OEyzrRkvY2w&list=PL_7kfUeJgSzz5Fltb2nivE_8xuAe2XTJl&index=19)**
   [![](https://img.youtube.com/vi/OEyzrRkvY2w/maxresdefault.jpg)](https://youtu.be/OEyzrRkvY2w)
-
----
-
-*Clear Eyes. Full Hearts. Can't Lose.*
