@@ -14,6 +14,7 @@ Scaling Ethereum, Building [Optimism](https://www.optimism.io/) & contributing t
 
 - **Collective Dashboards**
   - [Optimism Superchain Health](https://docs.google.com/spreadsheets/d/1f-uIW_PzlGQ_XFAmsf9FYiUf0N9l_nePwDVrw0D5MXY/edit?gid=584971628#gid=584971628)
+  - [Superchain 2025 Dashboard](https://app.hex.tech/61bffa12-d60b-484c-80b9-14265e268538/app/d28726b2-ff11-4f94-8a9f-6bb0a86f4b46/latest?)
   - [Superchain App/Contract Growth - WIP](https://app.hex.tech/61bffa12-d60b-484c-80b9-14265e268538/app/cd3f1525-08f0-4a49-a15a-b72f46f2a0d8/latest)
 
 - **Github**
@@ -29,11 +30,11 @@ Scaling Ethereum, Building [Optimism](https://www.optimism.io/) & contributing t
 ---
 ### Appearances
 
-- **11/14/24: [Devcon 7 - Building ecosystem health metrics with open data sources](https://www.youtube.com/watch?v=M9EQ-adPTrI)**
-  [![](https://i.ytimg.com/vi/M9EQ-adPTrI/hqdefault.jpg)](https://www.youtube.com/watch?v=M9EQ-adPTrI)
-
 - **3/19/24: [Indexed Podcast - Episode 4 - EIP4844 Blobs (w/ Michael Silberling)](https://www.youtube.com/watch?v=8IZGXcvKEVg)**
   [![](https://i.ytimg.com/vi/8IZGXcvKEVg/hqdefault.jpg)](https://www.youtube.com/watch?v=8IZGXcvKEVg)
+  
+- **11/14/24: [Devcon 7 - Building ecosystem health metrics with open data sources](https://www.youtube.com/watch?v=M9EQ-adPTrI)**
+  [![](https://i.ytimg.com/vi/M9EQ-adPTrI/hqdefault.jpg)](https://www.youtube.com/watch?v=M9EQ-adPTrI)
   
 - **3/21/22: [Dune Weekly Wizard - Episode 8](https://youtu.be/F5wu3c_EjzU)**
   [![](https://img.youtube.com/vi/F5wu3c_EjzU/maxresdefault.jpg)](https://youtu.be/F5wu3c_EjzU)
