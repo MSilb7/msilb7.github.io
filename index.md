@@ -1,13 +1,15 @@
 <!-- ## Michael Silberling -->
 <!-- ![image](https://user-images.githubusercontent.com/4006780/223618821-2463d2ea-41f9-41d7-914c-3bded756e733.png) -->
 
-**Twitter**: [@MSilb7](https://twitter.com/MSilb7) | **Farcaster**: [@MSilb7](https://warpcast.com/msilb7)
+**Twitter**: [@MSilb7](https://twitter.com/MSilb7) | **Farcaster**: [@MSilb7](https://farcaster.xyz/msilb7)
 
 **Data @ [OP Labs PBC](https://www.oplabs.co/)**<br>
 Scaling Ethereum, building [Optimism](https://www.optimism.io/)
 
 ---
 ### Places I Share Work
+
+- **Optimism Data and Dashboards:** [Docs](https://docs.optimism.io/app-developers/tools/data-and-dashboards)
 
 - **Optimism Collective Dashboards**
   - [Superchain Focus & Industry Benchmarks](https://app.hex.tech/61bffa12-d60b-484c-80b9-14265e268538/app/d28726b2-ff11-4f94-8a9f-6bb0a86f4b46/latest?)
