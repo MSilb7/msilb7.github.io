@@ -27,7 +27,10 @@ Scaling Ethereum, building [Optimism](https://www.optimism.io/)
 *More Optimism Superchain Data sites coming soon...*
 
 ---
-### Appearances
+### Writing & Appearances
+
+- **6/9/25: [OP Labs Blog - Metrics to be Optimistic About in 2025](https://blog.oplabs.co/metrics-to-be-optimistic-about-in-2025/)**
+  [![](https://blog.oplabs.co/content/images/size/w2000/2025/06/ChatGPT-Image-Jun-5--2025--04_06_28-PM.png)](https://blog.oplabs.co/metrics-to-be-optimistic-about-in-2025/)
 
 - **3/19/24: [Indexed Podcast - Episode 4 - EIP4844 Blobs (w/ Michael Silberling)](https://www.youtube.com/watch?v=8IZGXcvKEVg)**
   [![](https://i.ytimg.com/vi/8IZGXcvKEVg/hqdefault.jpg)](https://www.youtube.com/watch?v=8IZGXcvKEVg)
