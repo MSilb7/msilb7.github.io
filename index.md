@@ -9,7 +9,7 @@ Scaling Ethereum, building [Optimism](https://www.optimism.io/)
 ---
 ### Places I Share Work
 
-- **Optimism Data and Dashboards:** [Docs](https://docs.optimism.io/app-developers/tools/data-and-dashboards)
+- **Optimism Data and Dashboards:** <a href="https://docs.optimism.io/app-developers/tools/data-and-dashboards" target="_blank">Docs</a>
 
 - **Optimism Collective Dashboards**
   - [Superchain Focus & Industry Benchmarks](https://app.hex.tech/61bffa12-d60b-484c-80b9-14265e268538/app/d28726b2-ff11-4f94-8a9f-6bb0a86f4b46/latest?)
