@@ -16,13 +16,9 @@ Scaling Ethereum, building [Optimism](https://www.optimism.io/)
   - [Superchain App/Contract Growth](https://app.hex.tech/61bffa12-d60b-484c-80b9-14265e268538/app/cd3f1525-08f0-4a49-a15a-b72f46f2a0d8/latest)
   - [Overall Optimism Superchain Health](https://docs.google.com/spreadsheets/d/1f-uIW_PzlGQ_XFAmsf9FYiUf0N9l_nePwDVrw0D5MXY/edit?gid=584971628#gid=584971628)
 
-- **Github**
-  - [Optimism Analytics (op-analytics)](https://github.com/ethereum-optimism/op-analytics)
-  - [Personal (MSilb7)](https://github.com/MSilb7)
+- **Github** [Optimism Analytics (op-analytics)](https://github.com/ethereum-optimism/op-analytics) | [Personal (MSilb7)](https://github.com/MSilb7)
   
-- **Dune**
-  - [OP Labs Team (oplabspbc)](https://dune.com/oplabspbc)
-  - [Personal (MSilb7)](https://dune.com/msilb7)
+- **Dune**: [OP Labs Team (oplabspbc)](https://dune.com/oplabspbc) | [Personal (MSilb7)](https://dune.com/msilb7)
 
 *More Optimism Superchain Data sites coming soon...*
 
