@@ -1,8 +1,7 @@
 <!-- ## Michael Silberling -->
 <!-- ![image](https://user-images.githubusercontent.com/4006780/223618821-2463d2ea-41f9-41d7-914c-3bded756e733.png) -->
 
-**Twitter**: <a href="https://twitter.com/MSilb7" target="_blank" rel="noopener">@MSilb7</a> |  
-**Farcaster**: <a href="https://farcaster.xyz/msilb7" target="_blank" rel="noopener">@MSilb7</a>
+**Twitter**: <a href="https://twitter.com/MSilb7" target="_blank" rel="noopener">@MSilb7</a> |  **Farcaster**: <a href="https://farcaster.xyz/msilb7" target="_blank" rel="noopener">@MSilb7</a>
 
 **Data @ <a href="https://www.oplabs.co/" target="_blank" rel="noopener">OP Labs PBC</a>**  
 Scaling Ethereum, building <a href="https://www.optimism.io/" target="_blank" rel="noopener">Optimism</a>
@@ -17,11 +16,9 @@ Scaling Ethereum, building <a href="https://www.optimism.io/" target="_blank" re
   ↳ <a href="https://app.hex.tech/61bffa12-d60b-484c-80b9-14265e268538/app/cd3f1525-08f0-4a49-a15a-b72f46f2a0d8/latest" target="_blank" rel="noopener">App/Contract Growth</a>  
   ↳ <a href="https://docs.google.com/spreadsheets/d/1f-uIW_PzlGQ_XFAmsf9FYiUf0N9l_nePwDVrw0D5MXY/edit?gid=584971628#gid=584971628" target="_blank" rel="noopener">Superchain Health Sheet</a>  
 - <strong>GitHub:</strong>  
-  ↳ <a href="https://github.com/ethereum-optimism/op-analytics" target="_blank" rel="noopener">Optimism Analytics</a> //  
-  <a href="https://github.com/MSilb7" target="_blank" rel="noopener">Personal</a>  
+  ↳ <a href="https://github.com/ethereum-optimism/op-analytics" target="_blank" rel="noopener">Optimism Analytics</a> // <a href="https://github.com/MSilb7" target="_blank" rel="noopener">Personal</a>  
 - <strong>Dune:</strong>  
-  ↳ <a href="https://dune.com/oplabspbc" target="_blank" rel="noopener">OP Labs Team</a> //  
-  <a href="https://dune.com/msilb7" target="_blank" rel="noopener">Personal</a>  
+  ↳ <a href="https://dune.com/oplabspbc" target="_blank" rel="noopener">OP Labs Team</a> // <a href="https://dune.com/msilb7" target="_blank" rel="noopener">Personal</a>  
 
 <em>More Optimism Superchain Data sites coming soon...</em>
 
