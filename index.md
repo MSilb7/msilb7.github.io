@@ -10,7 +10,8 @@ Scaling Ethereum, building <a href="https://www.optimism.io/" target="_blank" re
 
 ### Places I Share Work
 
-- <strong>Optimism Docs:</strong> <a href="https://docs.optimism.io/app-developers/tools/data-and-dashboards" target="_blank" rel="noopener">Link</a>  
+- <strong>Optimism Docs:</strong>
+  ↳ <a href="https://docs.optimism.io/app-developers/tools/data-and-dashboards" target="_blank" rel="noopener">Data and Dashboards</a>  
 - <strong>Optimism Collective Dashboards:</strong>  
   ↳ <a href="https://app.hex.tech/61bffa12-d60b-484c-80b9-14265e268538/app/d28726b2-ff11-4f94-8a9f-6bb0a86f4b46/latest?" target="_blank" rel="noopener">Superchain Focus & Industry Benchmarks</a>  
   ↳ <a href="https://app.hex.tech/61bffa12-d60b-484c-80b9-14265e268538/app/cd3f1525-08f0-4a49-a15a-b72f46f2a0d8/latest" target="_blank" rel="noopener">App/Contract Growth</a>  
