@@ -1,7 +1,7 @@
 <!-- ## Michael Silberling -->
 <!-- ![image](https://user-images.githubusercontent.com/4006780/223618821-2463d2ea-41f9-41d7-914c-3bded756e733.png) -->
 
-**Twitter**: <a href="https://twitter.com/MSilb7" target="_blank" rel="noopener">@MSilb7</a> |  **Farcaster**: <a href="https://farcaster.xyz/msilb7" target="_blank" rel="noopener">@MSilb7</a>
+**Twitter**: <a href="https://twitter.com/MSilb7" target="_blank" rel="noopener">@MSilb7</a> |  **Farcaster**: <a href="https://farcaster.xyz/msilb7" target="_blank" rel="noopener">@MSilb7</a> | **LinkedIn**: <a href="https://www.linkedin.com/in/michaelsilberling/" target ="_blank" rel="noopener">in/michaelsilberling</a>
 
 **Data @ <a href="https://www.oplabs.co/" target="_blank" rel="noopener">OP Labs PBC</a>**  
 Scaling Ethereum, building <a href="https://www.optimism.io/" target="_blank" rel="noopener">Optimism</a>
