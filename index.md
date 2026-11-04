@@ -11,7 +11,8 @@ Data @ <a href="https://www.nativemarkets.com/" target="_blank" rel="noopener">N
 
 ### Places I Share Work
 
-- <strong>Optimism Docs:</strong>  
+- <strong>Official Optimism Sites:</strong>
+  ↳ <a href="https://optimism.io/stats" target="_blank" rel="noopener">Optimism Stats</a>   
   ↳ <a href="https://docs.optimism.io/app-developers/tools/data-and-dashboards" target="_blank" rel="noopener">Data and Dashboards</a>  
 - <strong>Optimism Collective Dashboards:</strong>  
   ↳ <a href="https://app.hex.tech/61bffa12-d60b-484c-80b9-14265e268538/app/d28726b2-ff11-4f94-8a9f-6bb0a86f4b46/latest?" target="_blank" rel="noopener">Superchain Focus & Industry Benchmarks</a>  
@@ -21,8 +22,6 @@ Data @ <a href="https://www.nativemarkets.com/" target="_blank" rel="noopener">N
   ↳ <a href="https://github.com/ethereum-optimism/op-analytics" target="_blank" rel="noopener">Optimism Analytics</a>&nbsp;|&nbsp;<a href="https://github.com/MSilb7" target="_blank" rel="noopener">Personal</a>  
 - <strong>Dune:</strong>  
   ↳ <a href="https://dune.com/oplabspbc" target="_blank" rel="noopener">OP Labs Team</a>&nbsp;|&nbsp;<a href="https://dune.com/msilb7" target="_blank" rel="noopener">Personal</a>  
-
-<em>More Optimism Superchain Data sites coming soon...</em>
 
 ---
 
