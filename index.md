@@ -10,7 +10,7 @@ Data @ <a href="https://www.nativemarkets.com/" target="_blank" rel="noopener">N
 
 ### Places I Share Work
 
-- <strong>Official Optimism Sites:</strong>
+- <strong>Official Optimism Sites:</strong><br>
   ↳ <a href="https://optimism.io/stats" target="_blank" rel="noopener">Optimism Stats</a>   
   ↳ <a href="https://docs.optimism.io/app-developers/tools/data-and-dashboards" target="_blank" rel="noopener">Data and Dashboards</a>  
 - <strong>Optimism Collective Dashboards:</strong>  
