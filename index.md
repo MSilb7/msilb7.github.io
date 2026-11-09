@@ -4,9 +4,9 @@
 **Twitter**: <a href="https://twitter.com/MSilb7" target="_blank" rel="noopener">@MSilb7</a> |  **Farcaster**: <a href="https://farcaster.xyz/msilb7" target="_blank" rel="noopener">@MSilb7</a> | **LinkedIn**: <a href="https://www.linkedin.com/in/michaelsilberling/" target ="_blank" rel="noopener">in/michaelsilberling</a>
 
 **Previous:** <br>
-- Data @ <a href="https://www.nativemarkets.com/" target="_blank" rel="noopener">Native Markets</a>
-- Data @ <a href="https://www.oplabs.co/" target="_blank" rel="noopener">OP Labs PBC</a> / <a href="https://www.optimism.io/" target="_blank" rel="noopener">Optimism</a>
-- Customer Experience Benchmarking @ <a href="https://www.aboutamazon.com/about-us" target="_blank" rel="noopener">Amazon</a>
+- Data @ <a href="https://www.nativemarkets.com/" target="_blank" rel="noopener">Native Markets</a> (Feb - Jul 2026)
+- Data @ <a href="https://www.oplabs.co/" target="_blank" rel="noopener">OP Labs PBC</a> / <a href="https://www.optimism.io/" target="_blank" rel="noopener">Optimism</a> (2021 - 2026)
+- Customer Experience Benchmarking @ <a href="https://www.aboutamazon.com/about-us" target="_blank" rel="noopener">Amazon</a> (2017 - 2021)
 
 ---
 
